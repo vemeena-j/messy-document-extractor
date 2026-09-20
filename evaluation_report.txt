@@ -1,0 +1,18 @@
+STRUCTURED EXTRACTION EVALUATION REPORT
+=======================================
+
+Documents evaluated: 50
+Total fields evaluated: 400
+Correct fields: 366
+Overall field accuracy: 91.50%
+
+PER-FIELD ACCURACY
+------------------
+invoice_number: 50/50 (100.00%)
+invoice_date: 50/50 (100.00%)
+vendor_name: 33/50 (66.00%)
+customer_name: 50/50 (100.00%)
+subtotal: 50/50 (100.00%)
+tax_amount: 33/50 (66.00%)
+total_amount: 50/50 (100.00%)
+due_date: 50/50 (100.00%)
