@@ -150,3 +150,12 @@ Install the required package:
 
 pip install -r requirements.txt
 
+## 👩‍💻 Project Author
+
+**Name:** Vemeena J  
+**Department:** Electronics and Communication Engineering (ECE)  
+**College:** Suguna College of Engineering, Coimbatore
+
+---
+
+⭐ Thank you for visiting my project!
