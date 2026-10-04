@@ -150,7 +150,7 @@ Install the required package:
 
 pip install -r requirements.txt
 
-## 👩‍💻 Project Author
+\## 👩‍💻 Project Author
 
 **Name:** Vemeena J  
 **Department:** Electronics and Communication Engineering (ECE)  
